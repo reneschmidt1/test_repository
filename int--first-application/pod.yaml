@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: wordpress
+  name: int-wordpress
 spec:
   containers:
   - name: wordpress
